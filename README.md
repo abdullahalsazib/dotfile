@@ -1,4 +1,4 @@
-## Dotfiles: Personal Configuration for Neovim, Vim, and tmux
+## Dotfiles: Personal Configuration for Neovim, Vim, and tmux.
 
 ### Initial Setup
 Welcome to my personal `dotfiles` repository! This initial release provides custom configurations for `Neovim`, Vim, and `tmux`, designed to streamline your development workflow. Achieve a consistent, highly productive terminal environment across all your machines with these tailored settings and efficient keybindings.
